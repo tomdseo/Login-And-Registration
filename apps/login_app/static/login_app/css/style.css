@@ -1,0 +1,38 @@
+body {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.max-width {
+    min-width: 300px;
+}
+
+.btn-format {
+    margin: auto;
+    display: block;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.display-inlineB {
+    display: inline-block;
+}
+
+.label-width {
+    width: 140px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.messages {
+    color: red;
+    margin-top: 20px;
+    display: block;
+    magin: auto;
+}
